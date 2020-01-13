@@ -1,4 +1,4 @@
-INSERT INTO projects VALUES()
+INSERT INTO projects VALUES(1, 'Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30')
 INSERT INTO projects VALUES()
 INSERT INTO projects VALUES()
 INSERT INTO projects VALUES()
