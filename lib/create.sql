@@ -3,12 +3,12 @@ id INTEGER PRIMARY KEY,
 
 );
 
-CREATE TABLE projects (
+CREATE TABLE users (
 id INTEGER PRIMARY KEY,
 
 );
 
-CREATE TABLE projects (
+CREATE TABLE pledges (
 id INTEGER PRIMARY KEY,
 
 );
