@@ -1,6 +1,6 @@
 CREATE TABLE projects (
 id INTEGER PRIMARY KEY,
-
+title 
 );
 
 CREATE TABLE users (
