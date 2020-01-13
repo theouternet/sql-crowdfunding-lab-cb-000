@@ -9,18 +9,20 @@ INSERT INTO projects VALUES(8, 'I have bed bugs!', 'charity', 800.00, '2014-06-3
 INSERT INTO projects VALUES(9, 'I want to teach English in China', 'charity', 3000.00, '2013-06-30', '2013-09-30');
 INSERT INTO projects VALUES(10, 'Help save birds of paradise', 'charity', 5000.00, '2012-03-20', '2013-06-30');
 
-INSERT INTO users VALUES
-INSERT INTO users VALUES
-INSERT INTO users VALUES
-INSERT INTO users VALUES
-INSERT INTO users VALUES
-INSERT INTO users VALUES
-INSERT INTO users VALUES
-INSERT INTO users VALUES
-INSERT INTO users VALUES
-INSERT INTO users VALUES
+INSERT INTO users VALUES(1, 'Finnebar', 17);
+INSERT INTO users VALUES(2, 'Bear', 6);
+INSERT INTO users VALUES(3, 'Iguana', 4);
+INSERT INTO users VALUES(4, 'Alex', 33);
+INSERT INTO users VALUES(5, 'Amanda', 24);
+INSERT INTO users VALUES(6, 'Sophie', 24);
+INSERT INTO users VALUES(7, 'Rosey', 9);
+INSERT INTO users VALUES(8, 'Victoria', 23);
+INSERT INTO users VALUES(9, 'Franz', 100);
+INSERT INTO users VALUES(10, 'Hermione', 30);
 
 
+(1, 'Finnebar', 17), (2, 'Bear', 6), (3, 'Iguana', 4), (4, 'Alex', 33),
+(5, 'Amanda', 24), (6, 'Sophie', 24), (7, 'Rosey', 9), (8, 'Victoria', 23), (9, 'Franz', 100), (10, 'Hermione', 30)
 
 
 
