@@ -1,1 +1,3 @@
-sqlite3 CREATE TABLE 
+CREATE TABLE projects (
+
+)
